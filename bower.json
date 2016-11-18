@@ -1,7 +1,7 @@
 {
   "author": "AngularUI Team",
   "name": "angular-ui-mask",
-  "homepage": "https://github.com/angular-ui/ui-mask",
+  "homepage": "https://github.com/vukan71/ui-mask",
   "main": "./dist/mask.js",
   "license": "MIT",
   "dependencies": {
